@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Patricia E. Miguel
-    tagline: Backend developer
+    tagline: Backend software developer
     # avatar: profile.png  # place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -39,26 +39,25 @@ sidebar:
 
     interests:
       - item: Educational content creator
-        link:
-        
+        link: 
+
+      - item: Choir member
+        link:        
+     
       - item: Tango dancing
         link:
-
+        
       - item: History enthusiast
         link:
 
-      - item: Choir member
-        link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Back-end developer, currently working with Python.
+      Ten years of Software QA experience, both manual and automation.
+      Ten years of university and on-line teaching experience as an instructor on programming courses, as well as an educational content creator.
+
 education:
     - degree: MSc in Computer Science
       university: University of London
