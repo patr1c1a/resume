@@ -27,7 +27,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: https://www.sejda.com/html-to-pdf?save-link=http%3A%2F%2Fpatriciaemiguel.com%2Fresume%2F&pageSize=A4
 
     languages:
       - idiom: English
@@ -37,13 +37,16 @@ sidebar:
         level: Native
 
     interests:
-      - item: Climbing
+      - item: Educational content creator
+        link:
+        
+      - item: Tango dancing
         link:
 
-      - item: Snowboarding
+      - item: History enthusiast
         link:
 
-      - item: Cooking
+      - item: Choir member
         link:
 
 career-profile:
