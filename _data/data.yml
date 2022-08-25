@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Patricia E. Miguel
     tagline: Backend software developer
-    avatar: profile.png  # place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: circle_profile_1.png  # place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: contacto@patriciaemiguel.com
@@ -55,15 +55,13 @@ career-profile:
     title: Career Profile
     summary: |
       Back-end developer, currently working with Python.
-      
-      Ten years of Software QA experience, both manual and automation.
-      
+      Ten years of Software QA experience, both manual and automation.      
       Ten years of university and on-line teaching experience as an instructor on programming courses, as well as an educational content creator.
 
 education:
     - degree: Licenciatura en Sistemas (degree in computer systems)
       university: Universidad del Noroeste de la provincia de Buenos Aires
-      time: Completed in 2018. Program length: 5 years.
+      time: 
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -74,7 +72,7 @@ education:
           - Bullet point
     - degree: Analista de Sistemas (system analyst)
       university: Universidad del Noroeste de la provincia de Buenos Aires
-      time: Completed in 2014. Program length: 3 years.
+      time: 
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
