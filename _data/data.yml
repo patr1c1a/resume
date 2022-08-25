@@ -55,13 +55,15 @@ career-profile:
     title: Career Profile
     summary: |
       Back-end developer, currently working with Python.
+      
       Ten years of Software QA experience, both manual and automation.
+      
       Ten years of university and on-line teaching experience as an instructor on programming courses, as well as an educational content creator.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Analista de Sistemas
+      university: Universidad del Noroeste de la provincia de Buenos Aires
+      time: Completed in 2018. Program length: 5 years.
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -70,9 +72,21 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: Analista de Sistemas
+      university: Universidad del Noroeste de la provincia de Buenos Aires
+      time: Completed in 2014. Program length: 3 years.
+      details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+          - Bullet point
+          - Bullet point
+          
+    - degree: Programador Universitario
+      university: Universidad del Noroeste de la provincia de Buenos Aires
+      time: Completed in 2014. Program length: 2 years.
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
