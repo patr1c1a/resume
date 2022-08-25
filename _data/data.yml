@@ -61,7 +61,7 @@ career-profile:
       Ten years of university and on-line teaching experience as an instructor on programming courses, as well as an educational content creator.
 
 education:
-    - degree: Analista de Sistemas
+    - degree: Licenciatura en Sistemas (degree in computer systems)
       university: Universidad del Noroeste de la provincia de Buenos Aires
       time: Completed in 2018. Program length: 5 years.
       details: |
@@ -72,7 +72,7 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: Analista de Sistemas
+    - degree: Analista de Sistemas (system analyst)
       university: Universidad del Noroeste de la provincia de Buenos Aires
       time: Completed in 2014. Program length: 3 years.
       details: |
@@ -84,7 +84,7 @@ education:
           - Bullet point
           - Bullet point
           
-    - degree: Programador Universitario
+    - degree: Programador Universitario (academic computer programmer)
       university: Universidad del Noroeste de la provincia de Buenos Aires
       time: Completed in 2014. Program length: 2 years.
       details: |
