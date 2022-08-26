@@ -61,7 +61,7 @@ career-profile:
 education:
     - degree: Degree in computer systems (&#8220;Licenciatura en Sistemas&#8221;)
       university: UNNOBA
-      time: Completed in 2018. Program length: 5 years.
+      time: 2018
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -72,7 +72,7 @@ education:
           - Bullet point
     - degree: System analyst (&#8220;Analista de Sistemas&#8221;)
       university: UNNOBA
-      time: Completed in 2014. Program length: 3 years.
+      time: 2014
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
