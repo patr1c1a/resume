@@ -103,7 +103,7 @@ experiences:
           - Methodologies: Web, desktop and mobile testing.
     - role: Quality Engineer
       time: 2011 - 2018
-      company: Clarolab (clarolab.com), on-site and remote
+      company:  <a href="http://www.clarolab.com" target="_blank">Clarolab</a>, on-site and remote
       details: |
           - Projects&#58; Jive Software, Threewill, Jama Software.
           - Tools used&#58; Selenium webdriver, Java, Robot Framework, Git, Stash, Jenkins, Web Accessibility Evaluation Tool, CodeSniffer, Firebug, Jira, TestRail.
