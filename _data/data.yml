@@ -103,7 +103,7 @@ experiences:
           - Methodologies: Web, desktop and mobile testing.
     - role: Quality Engineer
       time: 2011 - 2018
-      company: Clarolab, on-site and remote
+      company: [Clarolab](http://www.clarolab.com), on-site and remote
       details: |
           - Projects&#58; Jive Software, Threewill, Jama Software.
           - Tools used&#58; Selenium webdriver, Java, Robot Framework, Git, Stash, Jenkins, Web Accessibility Evaluation Tool, CodeSniffer, Firebug, Jira, TestRail.
@@ -139,34 +139,12 @@ projects:
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
-
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
       - name: Python & Django
-        level: 98%
+        # level: 98%
 
       - name: Javascript & jQuery
         level: 98%
