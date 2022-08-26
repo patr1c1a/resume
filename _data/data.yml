@@ -28,7 +28,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: https://www.sejda.com/html-to-pdf?save-link=http%3A%2F%2Fwww.patriciaemiguel.com%2Fresume%2Fprint&pageSize=A4&pageOrientation=portrait
+    pdf: https://www.sejda.com/html-to-pdf?save-link=http%3A%2F%2Fwww.patriciaemiguel.com%2Fresume&pageSize=A4&pageOrientation=portrait
 
     languages:
       - idiom: English
