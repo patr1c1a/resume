@@ -78,23 +78,23 @@ experiences:
       time: 2021 - Present
       company: <a href="https://www.intive.com" target="_blank">Intive</a>, remote
       details: |
-          - Project&#58; "Shippo" (as a Shippo contractor).
+          - Project&#58; "Shippo" (a <a href="https://www.goshippo.com/" target="_blank">Shippo</a> multi-carrier shipping platform for e-commerce).
           - Tools used&#58; Python, Django, Docker, PostgreSQL, Git.
           - Responsibilities&#58; Back-end developer. Implement courier APIs into the Shippo product. Bug-fixing.
-          - Agile methodology (scrum). Remote team.
+          - Agile methodology (scrum). Web application. Remote team.
     - role: Senior QA Analyst
       time: 2018 - 2021
       company: <a href="https://www.intive.com" target="_blank">Intive</a>, remote
       details: |
-          - Project&#58; "Digital Workspace" (as a Sabre Corporation contractor).
+          - Project&#58; "Digital Workspace" (a <a href="https://www.sabre.com/" target="_blank">Sabre Corporation</a> GDS).
           - Tools used&#58; TestCafe (on Javascript), Git, Jira, Rally, HP ALM.
           - Responsibilities&#58; Create and automate test cases, refine user stories, advise on clarification of business logic details for implementation, execution of tests on web/desktop/mobile app, create and manage defect reports, coaching peers.
-          - Agile methodology (scrum, kanban). Desktop/web/mobile testing. Remote team.
+          - Automated and manual testing. Agile methodology (scrum, kanban). Desktop/web/mobile environments. Remote team.
     - role: Quality Engineer
       time: 2011 - 2018
       company:  <a href="http://www.clarolab.com" target="_blank">Clarolab</a>, on-site and remote
       details: |
-          - Projects&#58; Jive Software, Threewill, Jama Software.
+          - Projects&#58; <a href="https://www.jivesoftware.com/" target="_blank">Jive Software</a> (business intranet), <a href="https://threewill.com/" target="_blank">Threewill</a> (internal software for AT&T), <a href="https://www.jamasoftware.com/" target="_blank">Jama Software</a> ("Jama Contour" project)</a>.
           - Tools used&#58; Selenium webdriver, Robot Framework (on Java), Git, Stash, Web Accessibility Evaluation Tool, CodeSniffer, Firebug, Jira, TestRail.
           - Responsibilities&#58; Functional testing, technical customer support, test case creation and manual execution, accessibility testing, UX analysis, some test automation and maintenance, database interaction, test environment maintenance. Live-testing of the Image Gallery app during Jive World 2012.
           - Agile methodology (scrum). Web application testing. On-site and remote teams.
