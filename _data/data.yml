@@ -65,29 +65,17 @@ education:
       university: UNNOBA
       time: 
       details: |
-        5-year program
+        Program length: 5 years.
     - degree: System analyst (&#8220;Analista de Sistemas&#8221;)
       university: UNNOBA
       time: 
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Program length: 3 years.
     - degree: Computer programmer (&#8220;Programador Universitario&#8221;)
       university: UNNOBA
       time: 
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Program length: 2 years.
 experiences:
     - role: Lead Developer
       time: 2015 - Present
