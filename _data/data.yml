@@ -61,18 +61,12 @@ career-profile:
 education:
     - degree: Degree in computer systems (&#8220;Licenciatura en Sistemas&#8221;)
       university: UNNOBA
-      time: 2018
+      time: 
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        5-year program
     - degree: System analyst (&#8220;Analista de Sistemas&#8221;)
       university: UNNOBA
-      time: 2014
+      time: 
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -83,7 +77,7 @@ education:
           - Bullet point
     - degree: Computer programmer (&#8220;Programador Universitario&#8221;)
       university: UNNOBA
-      time: 2014
+      time: 
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
