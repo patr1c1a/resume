@@ -74,30 +74,30 @@ education:
       details: |
         Program length: 2 years.
 experiences:
-    - role: Software Engineer
+    - role: Backend Software Engineer
       time: 2021 - Present
       company: <a href="https://www.intive.com" target="_blank">Intive</a>, remote
       details: |
           - Project&#58; "Shippo" (as a Shippo contractor).
           - Tools used&#58; Python, Django, Docker, PostgreSQL, Git.
           - Responsibilities&#58; Back-end developer. Implement courier APIs into the Shippo product. Bug-fixing.
-          - Methodologies&#58; Scrum. Remote team.
+          - Agile methodology (scrum). Remote team.
     - role: Senior QA Analyst
       time: 2018 - 2021
       company: <a href="https://www.intive.com" target="_blank">Intive</a>, remote
       details: |
           - Project&#58; "Digital Workspace" (as a Sabre Corporation contractor).
           - Tools used&#58; TestCafe (on Javascript), Git, Jira, Rally, HP ALM.
-          - Responsibilities&#58; Automate test cases, create test cases, refine user stories, advise business analyst on clarification of business logic details for implementation, execution of tests on web/desktop/mobile app, create and manage defect reports, coaching peers.
-          - Methodologies&#58; Scrum. Kanban. Desktop/web/mobile testing. Remote team.
+          - Responsibilities&#58; Create and automate test cases, refine user stories, advise on clarification of business logic details for implementation, execution of tests on web/desktop/mobile app, create and manage defect reports, coaching peers.
+          - Agile methodology (scrum, kanban). Desktop/web/mobile testing. Remote team.
     - role: Quality Engineer
       time: 2011 - 2018
       company:  <a href="http://www.clarolab.com" target="_blank">Clarolab</a>, on-site and remote
       details: |
           - Projects&#58; Jive Software, Threewill, Jama Software.
-          - Tools used&#58; Selenium webdriver, Java, Robot Framework, Git, Stash, Jenkins, Web Accessibility Evaluation Tool, CodeSniffer, Firebug, Jira, TestRail.
+          - Tools used&#58; Selenium webdriver, Robot Framework (on Java), Git, Stash, Web Accessibility Evaluation Tool, CodeSniffer, Firebug, Jira, TestRail.
           - Responsibilities&#58; Functional testing, technical customer support, test case creation and manual execution, accessibility testing, UX analysis, some test automation and maintenance, database interaction, test environment maintenance. Live-testing of the Image Gallery app during Jive World 2012.
-          - Methodologies&#58; Scrum. Web application testing. On-site and remote teams.
+          - Agile methodology (scrum). Web application testing. On-site and remote teams.
     - role: Freelance manual tester
       time: 2013 - 2015
       company: <a href="https://utest.com/" target="_blank">Utest</a>, remote crowdsourcing
@@ -105,7 +105,7 @@ experiences:
           - Responsibilities&#58; Functional and internationalization testing. Find and report issues. Execute test cases.
           - Projects include&#58; Netflix, YouTube, MalwareBytes, King.com, Yandex, Crackle, CBS Interactive, Time Warner Residential, Autodesk, Concur, 123D Design Online, Snapfish UK, 3-Wheel, WatchDox, among others.
           - Highest rating achieved&#58; “gold rated” Software QA in both functional and internationalization areas.
-          - Methodologies: Web, desktop and mobile testing.
+          - Web, desktop and mobile testing.
     - role: Teacher / Assistant teacher
       time: 2010 - 2019
       company: <a href="https://www.unnoba.edu.ar/" target="_blank">UNNOBA university</a>, Junín (Buenos Aires)
