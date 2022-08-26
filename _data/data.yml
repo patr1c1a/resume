@@ -60,8 +60,8 @@ career-profile:
 
 education:
     - degree: Degree in computer systems (&#8220;Licenciatura en Sistemas&#8221;)
-      university: Universidad del Noroeste de la provincia de Buenos Aires
-      time: 2011 - 2012
+      university: UNNOBA
+      time: Completed in 2018. Program length: 5 years.
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -70,9 +70,9 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: Analista de Sistemas (system analyst)
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: System analyst (&#8220;Analista de Sistemas&#8221;)
+      university: UNNOBA
+      time: Completed in 2014. Program length: 3 years.
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
