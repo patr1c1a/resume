@@ -79,7 +79,7 @@ education:
 experiences:
     - role: Software Engineer
       time: 2021 - Present
-      company: Intive, remote
+      company: <a href="https://www.intive.com" target="_blank">Intive</a>, remote
       details: |
           - Project&#58; "Shippo" (as a Shippo contractor).
           - Tools used&#58; Python, Django, Docker, PostgreSQL, Git.
@@ -87,20 +87,12 @@ experiences:
           - Methodologies&#58; Scrum. Remote team.
     - role: Senior QA Analyst
       time: 2018 - 2021
-      company: Intive, remote
+      company: <a href="https://www.intive.com" target="_blank">Intive</a>, remote
       details: |
           - Project&#58; "Digital Workspace" (as a Sabre Corporation contractor).
           - Tools used&#58; TestCafe (on Javascript), Git, Jira, Rally, HP ALM.
           - Responsibilities&#58; Automate test cases, create test cases, refine user stories, advise business analyst on clarification of business logic details for implementation, execution of tests on web/desktop/mobile app, create and manage defect reports, coaching peers.
           - Methodologies&#58; Scrum. Kanban. Desktop/web/mobile testing. Remote team.
-    - role: Freelance manual tester
-      time: 2013 - 2015
-      company: Utest, remote crowdsourcing
-      details: |
-          - Responsibilities&#58; Functional and internationalization testing. Find and report issues. Execute test cases.
-          - Projects include&#58; Netflix, YouTube, MalwareBytes, King.com, Yandex, Crackle, CBS Interactive, Time Warner Residential, Autodesk, Concur, 123D Design Online, Snapfish UK, 3-Wheel, WatchDox, among others.
-          - Highest rating achieved&#58; “gold rated” Software QA in both functional and internationalization areas.
-          - Methodologies: Web, desktop and mobile testing.
     - role: Quality Engineer
       time: 2011 - 2018
       company:  <a href="http://www.clarolab.com" target="_blank">Clarolab</a>, on-site and remote
@@ -109,57 +101,12 @@ experiences:
           - Tools used&#58; Selenium webdriver, Java, Robot Framework, Git, Stash, Jenkins, Web Accessibility Evaluation Tool, CodeSniffer, Firebug, Jira, TestRail.
           - Responsibilities&#58; Functional testing, technical customer support, test case creation and manual execution, accessibility testing, UX analysis, some test automation and maintenance, database interaction, test environment maintenance. Live-testing of the Image Gallery app during Jive World 2012.
           - Methodologies&#58; Scrum. Web application testing. On-site and remote teams.
+    - role: Freelance manual tester
+      time: 2013 - 2015
+      company: <a href="https://utest.com/" target="_blank">Utest</a>, remote crowdsourcing
+      details: |
+          - Responsibilities&#58; Functional and internationalization testing. Find and report issues. Execute test cases.
+          - Projects include&#58; Netflix, YouTube, MalwareBytes, King.com, Yandex, Crackle, CBS Interactive, Time Warner Residential, Autodesk, Concur, 123D Design Online, Snapfish UK, 3-Wheel, WatchDox, among others.
+          - Highest rating achieved&#58; “gold rated” Software QA in both functional and internationalization areas.
+          - Methodologies: Web, desktop and mobile testing.
 
-          
-          
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: Python & Django
-        # level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
-
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
