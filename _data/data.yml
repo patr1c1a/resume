@@ -94,7 +94,7 @@ experiences:
       time: 2011 - 2018
       company:  <a href="http://www.clarolab.com" target="_blank">Clarolab</a>, on-site and remote
       details: |
-          - Projects&#58; &#8220;Jive Software&#8221; (a <a href="https://www.jivesoftware.com/" target="_blank">Jive Software</a> social networking platform for business applications), Sharepoint-based intranet (a <a href="https://threewill.com/" target="_blank">Threewill</a> project for AT&T USA), "Jama Contour" (a <a href="https://www.jamasoftware.com/" target="_blank">Jama Software</a> platform for development & engineering process).
+          - Projects&#58; &#8220;Jive&#8221; (a <a href="https://www.jivesoftware.com/" target="_blank">Jive Software</a> social networking platform for business applications), Sharepoint-based intranet (a <a href="https://threewill.com/" target="_blank">Threewill</a> project for AT&T USA), "Jama Contour" (a <a href="https://www.jamasoftware.com/" target="_blank">Jama Software</a> platform for development & engineering process).
           - Tools used&#58; Selenium webdriver, Robot Framework (on Java), Git, Stash, Web Accessibility Evaluation Tool, CodeSniffer, Firebug, Jira, TestRail.
           - Responsibilities&#58; Functional testing, technical customer support, test case creation and manual execution, accessibility testing, UX analysis, some test automation and maintenance, database interaction, test environment maintenance. Live-testing of the Image Gallery app during Jive World 2012.
           - Agile methodology (scrum). Web application testing. On-site and remote teams.
@@ -117,13 +117,14 @@ experiences:
 
 public-talks:
     title: Public talks
+    intro: |
+      Public talks and workshops where I participated as a speaker.
     talks:
       - title: Workshop instructor&#58; &#8220;Club de Chicas Programadoras&#8221;
         link: "http://www.chicasprogramadoras.club/"
         place: Online sessions.
         details: The workshop consisted of an introduction to programming aimed at girls aged 13-17, with the intention of inspiring young women to get involved in technology.
 
-    talks:
       - title: Using Postman to test an API (during &#8220;Jump&#8221; conference)
         link: "https://www.vamosalajump.com/"
         place: Online session.
