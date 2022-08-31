@@ -79,7 +79,7 @@ experiences:
       company: <a href="https://www.intive.com" target="_blank">Intive</a>, remote
       details: |
           - Project&#58; &#8220;Shippo&#8221; (a <a href="https://www.goshippo.com/" target="_blank">Shippo</a> multi-carrier shipping platform for e-commerce).
-          - Tools used&#58; Python, Django, Docker, PostgreSQL, Git.
+          - Tools used&#58; Python, Django, Docker, PostgreSQL, Git, Postman.
           - Responsibilities&#58; Back-end developer. Implement courier APIs into the Shippo product. Bug-fixing.
           - Agile methodology (scrum). Web application. Remote team.
     - role: Senior QA Analyst
@@ -87,7 +87,7 @@ experiences:
       company: <a href="https://www.intive.com" target="_blank">Intive</a>, remote
       details: |
           - Project&#58; &#8220;Digital Workspace&#8221; (a <a href="https://www.sabre.com/" target="_blank">Sabre Corporation</a> GDS).
-          - Tools used&#58; Jira, Rally, HP ALM, Git, TestCafe (automation framework).
+          - Tools used&#58; Jira,  TestCafe (automation framework), Git, Rally, HP ALM.
           - Responsibilities&#58; Create and automate test cases, refine user stories, advise on clarification of business logic details for implementation, execution of tests on web/desktop/mobile app, create and manage defect reports, coaching peers.
           - Automated and manual testing. Agile methodology (scrum, kanban). Desktop/web/mobile environments. Remote team.
     - role: Quality Engineer
@@ -110,8 +110,8 @@ experiences:
       time: 2010 - 2019
       company: <a href="https://www.unnoba.edu.ar/" target="_blank">UNNOBA university</a>, Junín (Buenos Aires)
       details: |
-          - Responsibilities&#58; Teach classes. Deliver tailored teaching activities to students. Create teaching resources and exams. Grading exams and deliverables. Facilitate student learning and help them solve programming problems.
-          - Courses&#58; &#8220;Introduction to Imperative Programming&#8221;, &#8220;Imperative Programming&#8221;, Freshmen introductory course
+          - Responsibilities&#58; Teach classes. Deliver tailored teaching activities to students. Create teaching resources and exams. Grading exams and deliverables. Facilitate student learning and help them solve programming problems and logical reasoning exercises.
+          - Courses&#58; &#8220;Introduction to Imperative Programming&#8221;, &#8220;Imperative Programming&#8221;, Freshmen introductory course.
           - Languages taught&#58; Python, C++, Pascal, Ruby.
           - Grants awarded: research at Rey Juan Carlos University (Madrid, Spain, March 2017).
 
