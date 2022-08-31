@@ -122,7 +122,7 @@ public-talks:
     talks:
       - title: Workshop instructor&#58; &#8220;Club de Chicas Programadoras&#8221;
         link: "http://www.chicasprogramadoras.club/"
-        place: Online sessions.
+        place: 6 online sessions.
         details: The workshop consisted of an introduction to programming aimed at girls aged 13-17, with the intention of inspiring young women to get involved in technology.
 
       - title: Using Postman to test an API (during &#8220;Jump&#8221; conference)
