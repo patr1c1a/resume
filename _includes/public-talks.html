@@ -18,11 +18,11 @@
 
   {% for public-talk in public-talks.talks %}
   <div class="item">
-    {{ public-talk.title }}
+    <li>{{ public-talk.title }}</li>
     {% if public-talk.link %}
-      <li><a href="{{ public-talk.link }}">{{ public-talk.event }}</a></li>
+      <a href="{{ public-talk.link }}">{{ public-talk.event }}</a>
     {% else %}
-      <li>{{ public-talk.event }}</li>
+      {{ public-talk.event }}
     {% endif %}
     <div class="publication-authors">{{ public-talk.place }}</div>
     <div class="publication-conference">{{ public-talk.details }}</div>
