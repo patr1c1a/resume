@@ -118,14 +118,16 @@ experiences:
 public-talks:
     title: Public talks
     intro: |
-      Public talks and workshops where I participated as a speaker.
+      Public talks and workshops where I participated as a speaker or instructor.
     talks:
-      - title: Workshop instructor&#58; &#8220;Club de Chicas Programadoras&#8221;
+      - title: Workshop instructor
+        event: &#8220;Club de Chicas Programadoras&#8221;
         link: "http://www.chicasprogramadoras.club/"
         place: 6 online sessions.
         details: An introduction to programming aimed at girls aged 13-17, with the intention of inspiring young women to get involved in technology. Tools and technologies used&#58; Scratch, HTML/CSS, MIT App Inventor.
 
-      - title: Using Postman to test an API (during &#8220;Jump&#8221; conference)
+      - title: Using Postman to test an API
+        event: &#8220;Jump&#8221;
         link: "https://www.vamosalajump.com/"
         place: Online session.
         details: As a current software developer and a former senior QA engineer I participated in this talk aimed at professionals that were starting their careers. <a href="https://youtu.be/MLN2ub61bnk?t=7234" target="_blank">Youtube link</a>.
