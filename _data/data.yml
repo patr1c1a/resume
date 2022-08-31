@@ -120,7 +120,7 @@ public-talks:
     intro: |
       Public talks and workshops where I participated as a speaker or instructor.
     talks:
-      - title: Workshop instructor
+      - title: Instructor during the 2021 summer workshop
         event: &#8220;Club de Chicas Programadoras&#8221;
         link: "http://www.chicasprogramadoras.club/"
         place: 6 online sessions.
