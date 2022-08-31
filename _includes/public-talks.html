@@ -18,13 +18,20 @@
 
   {% for public-talk in public-talks.talks %}
   <div class="item">
-    <li>{{ public-talk.title }}</li>
-    {% if public-talk.link %}
-      <a href="{{ public-talk.link }}">{{ public-talk.event }}</a>
-    {% else %}
-      {{ public-talk.event }}
-    {% endif %}
-    <div class="publication-authors time">{{ public-talk.place }}</div>
+    
+    <div class="meta">
+      
+      <div class="upper-row">
+        <li>{{ public-talk.title }}</li>
+        {% if public-talk.link %}
+          <a href="{{ public-talk.link }}">{{ public-talk.event }}</a>
+        {% else %}
+          {{ public-talk.event }}
+        {% endif %}
+        <div class="publication-authors time">{{ public-talk.place }}</div>
+       </div><!--//upper-row-->
+      
+    </div><!--//meta-->  
     <div class="publication-conference">{{ public-talk.details }}</div>
   </div><!--//item-->
   {% endfor %}
