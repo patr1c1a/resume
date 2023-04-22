@@ -20,7 +20,8 @@
         position: static;
         float: right;
         width: 40%;
-        box-shadow: inset 0px 0px 0px 12px grey;
+        outline: solid 5px grey;
+        outline-offset: -5px;
         -webkit-print-color-adjust: exact; 
     }
 
