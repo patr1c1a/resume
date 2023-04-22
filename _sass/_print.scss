@@ -24,6 +24,10 @@
         outline-offset: -3px;
         -webkit-print-color-adjust: exact; 
     }
+      
+    li.pdf {
+       display: none;
+      }
 
     .remove-container.container-block {
        display: none;
