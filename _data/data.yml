@@ -134,3 +134,26 @@ public-talks:
         link: "https://www.vamosalajump.com/"
         place: Online session.
         details: As a current software developer and a former senior QA engineer I participated in this talk aimed at professionals that were starting their careers. [<a href="https://youtu.be/MLN2ub61bnk?t=7234" target="_blank">Youtube link</a>].
+
+online-presence:
+    title: Social media and online presence
+    intro: |
+      My Youtube channel, blog and social media where I post educational content for programming beginners. Contents are only in Spanish so far.
+    presence:
+      - title: Youtube channel
+        link: "https://www.youtube.com/c/ProgramacionDesdeCero/"
+
+      - title: Blog
+        link: "https://www.patriciaemiguel.com/"
+        
+      - title: Twitter
+        link: "https://www.facebook.com/ProgramacionDesdeCer0/"
+        
+      - title: Instagram
+        link: "https://www.instagram.com/programaciondesdecero/"
+        
+      - title: Facebook
+        link: "https://twitter.com/Programacion_0"
+
+
+
