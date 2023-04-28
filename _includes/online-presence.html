@@ -1,0 +1,40 @@
+{% assign online-presence = site.data.data.online-presence %}
+{% if online-presence %}
+<section class="section publications-section">
+
+  <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-hashtag fa-stack-1x fa-inverse"></i>
+    </span>
+    {{ online-presence.title }}
+  </h2>
+
+  {% if online-presence.intro %}
+  <div class="intro">
+    {{ online-presence.intro | markdownify }}
+  </div><!--//intro-->
+  {% endif %}
+
+  {% for presence in online-presence.presence %}
+  <div class="item">
+    
+    <div class="meta">
+      
+      <div class="upper-row">
+        <li class="job-title">{{ online-presence.title }}</li>
+        {% if public-talk.link %}
+          <a href="{{ public-talk.link }}">{{ online-presence.event }}</a>
+        {% else %}
+          {{ online-presenceevent }}
+        {% endif %}
+        <div class="publication-authors time">{{ online-presence.place }}</div>
+       </div><!--//upper-row-->
+      
+    </div><!--//meta-->  
+    <div class="publication-conference">{{ online-presence.details }}</div>
+  </div><!--//item-->
+  {% endfor %}
+
+</section><!--//section-->
+{% endif %}
