@@ -24,15 +24,13 @@
       <div class="upper-row">
         <li class="job-title">{{ online-presence.title }}</li>
         {% if online-presence.link %}
-          <a href="{{ online-presence.link }}">{{ online-presence.event }}</a>
+          <a href="{{ online-presence.link }}">{{ online-presence.title }}</a>
         {% else %}
-          {{ online-presenceevent }}
+          {{ online-presence.title }}
         {% endif %}
-        <div class="publication-authors time">{{ online-presence.place }}</div>
        </div><!--//upper-row-->
       
     </div><!--//meta-->  
-    <div class="publication-conference">{{ online-presence.details }}</div>
   </div><!--//item-->
   {% endfor %}
 
