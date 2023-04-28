@@ -23,8 +23,8 @@
       
       <div class="upper-row">
         <li class="job-title">{{ online-presence.title }}</li>
-        {% if public-talk.link %}
-          <a href="{{ public-talk.link }}">{{ online-presence.event }}</a>
+        {% if online-presence.link %}
+          <a href="{{ online-presence.link }}">{{ online-presence.event }}</a>
         {% else %}
           {{ online-presenceevent }}
         {% endif %}
