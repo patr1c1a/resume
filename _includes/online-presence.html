@@ -22,12 +22,13 @@
     <div class="meta">
       
       <div class="upper-row">
-        <li class="job-title">{{ presence.title }}</li>
+        <li class="job-title">
         {% if presence.link %}
           <a href="{{ presence.link }}">{{ presence.link }}</a>
         {% else %}
           {{ presence.link }}
         {% endif %}
+        </li>
        </div><!--//upper-row-->
       
     </div><!--//meta-->  
