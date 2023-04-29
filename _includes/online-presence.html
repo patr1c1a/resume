@@ -16,7 +16,7 @@
   </div><!--//intro-->
   {% endif %}
 
-  {% for presence in online-presence.presence %}
+  {% for presence in online-presence.items %}
   <div class="item">
     
     <div class="meta">
@@ -24,9 +24,9 @@
       <div class="upper-row">
         <li class="job-title">{{ online-presence.title }}</li>
         {% if online-presence.link %}
-          <a href="{{ online-presence.link }}">{{ online-presence.title }}</a>
+          <a href="{{ online-presence.link }}">{{ online-presence.link }}</a>
         {% else %}
-          {{ online-presence.title }}
+          {{ online-presence.link }}
         {% endif %}
        </div><!--//upper-row-->
       
