@@ -26,9 +26,10 @@
         {% if presence.link %}
           <a href="{{ presence.link }}">{{ presence.title }}</a>
         {% else %}
-          {{ presence.link }}
+          {{ presence.title }}
         {% endif %}
         </li>
+        {{ presence.description }}
        </div><!--//upper-row-->
       
     </div><!--//meta-->  
