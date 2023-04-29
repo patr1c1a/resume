@@ -140,19 +140,19 @@ online-presence:
     intro: |
       My Youtube channel, blog and social media where I post educational content for programming beginners. Contents are only in Spanish so far.
     items:
-      - title: Youtube channel
+      - title: - Youtube channel
         link: "https://www.youtube.com/c/ProgramacionDesdeCero/"
 
-      - title: Blog
+      - title: - Blog
         link: "https://www.patriciaemiguel.com/"
         
-      - title: Twitter
+      - title: - Twitter
         link: "https://www.facebook.com/ProgramacionDesdeCer0/"
         
-      - title: Instagram
+      - title: - Instagram
         link: "https://www.instagram.com/programaciondesdecero/"
         
-      - title: Facebook
+      - title: - Facebook
         link: "https://twitter.com/Programacion_0"
 
 
