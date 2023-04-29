@@ -139,7 +139,7 @@ online-presence:
     title: Social media and online presence
     intro: |
       My Youtube channel, blog and social media where I post educational content for programming beginners. Contents are only in Spanish so far.
-    presence:
+    items:
       - title: Youtube channel
         link: "https://www.youtube.com/c/ProgramacionDesdeCero/"
 
