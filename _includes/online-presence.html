@@ -35,6 +35,34 @@
     </div><!--//meta-->  
   </div><!--//item-->
   {% endfor %}
+  
+  <h3>
+    <i class="fa-solid fa-comments"></i>
+    {{ online-presence.subtitle }}
+  </h3>
+  
+  {% if online-presence.subtitle-intro %}
+  <div class="intro">
+    {{ online-presence.subtitle-intro | markdownify }}
+  </div><!--//intro-->
+  {% endif %}
 
+  {% for comment in online-presence.comments %}
+  <div class="item">
+    <div class="meta">
+      <div class="upper-row">
+        <li class="job-title">
+        {% if presence.link %}
+          <a href="{{ comment.link }}">[Link]</a>
+        {% endif %}
+        </li>
+        {{ comment.translation }}
+       </div><!--//upper-row-->
+      
+    </div><!--//meta-->  
+  </div><!--//item-->
+  {% endfor %}
+  
+  
 </section><!--//section-->
 {% endif %}
