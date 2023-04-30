@@ -37,7 +37,7 @@
   {% endfor %}
   
    
-  <h4 class=".positive-feedback">
+  <h4 class="positive-feedback">
     <i class="fas fa-solid fa-comments"></i>
     {{ online-presence.subtitle }}
   </h4>
@@ -52,13 +52,11 @@
   <div class="item">
     <div class="meta">
       <div class="upper-row">
-        
         {% if comment.link %}
           <a href="{{ comment.link }}"> <i class="fas fa-sharp fa-thin fa-link fa-xs"></i> </a> {{ comment.translation }}
         {% else %}
           {{ comment.translation }}
         {% endif %}
-        
        </div><!--//upper-row-->
       
     </div><!--//meta-->  
