@@ -38,9 +38,7 @@
   
    
   <h4 class="container-block">
-    <span class="fa-stack fa-xs">
-      <i class="fas fa-duotone fa-comment"></i>
-    </span>
+    <i class="fas fa-duotone fa-comment"></i>
     {{ online-presence.subtitle }}
   </h4>
   
@@ -56,7 +54,7 @@
       <div class="upper-row">
         <li class="job-title">
         {% if comment.link %}
-          <a href="{{ comment.link }}"> <i class="fas fa-sharp fa-thin fa-link"></i> </a> {{ comment.translation }}
+          <a href="{{ comment.link }}"> <i class="fas fa-sharp fa-thin fa-link fa-xs"></i> </a> {{ comment.translation }}
         {% else %}
           {{ comment.translation }}
         {% endif %}
