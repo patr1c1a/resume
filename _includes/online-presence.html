@@ -36,7 +36,7 @@
   </div><!--//item-->
   {% endfor %}
   
-  <h4>
+  <h4 class="section-title">
     <span class="fa-stack fa-xs">
       <i class="fa-thin fa-circle fa-stack-2x"></i>
       <i class="fa-solid fa-comment"></i>
@@ -56,7 +56,7 @@
       <div class="upper-row">
         <li class="job-title">
         {% if comment.link %}
-          <a href="{{ comment.link }}">&#91;Link&#93;</a>
+          <a href="{{ comment.link }}"> <i class="fa-sharp fa-light fa-link"></i> </a>
         {% endif %}
         </li>
         {{ comment.translation }}
