@@ -147,18 +147,18 @@ online-presence:
       - title: Youtube channel
         link: "https://www.youtube.com/c/ProgramacionDesdeCero/"
         details: My channel, &#8220;Programación desde cero&#8221;, where I published an intro to programming course using Python, as well as some other videos related to C++ pointers, recursion, linked lists and other topics.
-
-      - title: Twitter
-        link: "https://www.facebook.com/ProgramacionDesdeCer0/"
-        details: Posts and infographics about programming and related topics.
-        
+      
       - title: Instagram
         link: "https://www.instagram.com/programaciondesdecero/"
         details: Infographics and &#8220;reels&#8221; about programming and related topics.
         
-      - title: Facebook
-        link: "https://twitter.com/Programacion_0"
+      - title: Facebook page
+        link: "https://www.facebook.com/ProgramacionDesdeCer0/"
         details: Infographics and &#8220;reels&#8221; about programming and related topics.
+        
+      - title: Twitter
+        link: "https://twitter.com/Programacion_0"
+        details: Posts and infographics about programming and related topics.
 
 
 
