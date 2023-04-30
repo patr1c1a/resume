@@ -162,12 +162,12 @@ online-presence:
 
     subtitle: Positive feedback
     intro: |
-      Some comments and feedback on my published contents (translated into English)
+      Some comments and feedback on my published contents (translated into English).
     comments:
       - translation: &#8220;Great explanation! Lessons like this one are underrated gems. I hope more people watch it. Thank you for sharing your knowledge, you&#39;ve earned a new subscription!&#8221;
         link: "https://www.youtube.com/watch?v=s8T7cPnYrz0&lc=UgyabKAnXIbd-cnXxBN4AaABAg"    
 
-      - translation: &#8220;Amazing explanation. One of the best I have seen in years. A lesson that should be mandatory for anyone trying to study C/C++. A well deserved &#39;like&#39; for you.&#8221;
+      - translation: &#8220;Amazing explanation. One of the best I have seen in years. A lesson that should be mandatory for anyone trying to learn C/C++. A well deserved &#39;like&#39; for you.&#8221;
         link: "https://www.youtube.com/watch?v=s8T7cPnYrz0&lc=UgxLEtuRMre5y7x4W314AaABAg"    
 
       - translation: &#8220;Thank you. I am learning more from your exercises than from all the theory I&#39;ve been reading. Regards, and thanks one more time!&#8221;
