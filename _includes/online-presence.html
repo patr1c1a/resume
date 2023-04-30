@@ -41,7 +41,7 @@
   <h4 class="section-title">
     <span class="fa-stack fa-xs">
       <i class="fas fa-light fa-circle fa-stack-2x"></i>
-      <i class="fas fa-solid fa-comment fa-stack-1x"></i>
+      <i class="fas fa-solid fa-comment fa-stack-1x fa-inverse"></i>
     </span>
     {{ online-presence.subtitle }}
   </h4>
@@ -58,7 +58,7 @@
       <div class="upper-row">
         <li class="job-title">
         {% if comment.link %}
-          <a href="{{ comment.link }}"> <i class="fas fa-sharp fa-light fa-link"></i> </a> {{ comment.translation }}
+          <a href="{{ comment.link }}"> <i class="fas fa-sharp fa-thin fa-link"></i> </a> {{ comment.translation }}
         {% else %}
           {{ comment.translation }}
         {% endif %}
