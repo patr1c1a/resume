@@ -76,6 +76,15 @@ education:
       time: 
       details: |
         Program length: 2 years.
+
+education_more:
+    - degree: Abogada y Escribana (Law degree and Notary Public degree)
+      university: UNLP
+      time: 
+      details: |
+        Program length: 6 years.
+        
+        
 experiences:
     - role: Backend Software Engineer
       time: 2021 - Present
