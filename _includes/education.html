@@ -12,6 +12,7 @@
       <h4 class="degree">{{ graduation.degree }}</h4>
       <h5 class="meta">{{ graduation.university }}</h5>
       <div class="time">{{ graduation.time }}</div>
+      <div class="meta">{{ graduation.details }}</div>
     </div><!--//item-->
     {% endfor %}
 
@@ -42,7 +43,7 @@
 
       {% if graduation.details %}
       <div class="details">
-        {{ graduation.details | markdownify }}
+        {{ graduation.details }}
       </div><!--//details-->
       {% endif %}
 
