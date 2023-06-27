@@ -63,24 +63,24 @@ career-profile:
 education:
     - degree: Degree in computer systems (&#8220;Licenciatura en Sistemas&#8221;)
       university: UNNOBA
-      time: 
+      time: 2022
       details: |
         Program length: 5 years.
     - degree: System analyst (&#8220;Analista de Sistemas&#8221;)
       university: UNNOBA
-      time: 
+      time: 2014
       details: |
         Program length: 3 years.
     - degree: Computer programmer (&#8220;Programador Universitario&#8221;)
       university: UNNOBA
-      time: 
+      time: 2014
       details: |
         Program length: 2 years.
 
 education_more:
     - degree: Abogada y Escribana (Law degree and Notary Public degree)
       university: UNLP
-      time: 
+      time: 2007
       details: |
         Program length: 6 years.
         
