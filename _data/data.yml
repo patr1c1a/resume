@@ -40,16 +40,18 @@ sidebar:
     interests:
       - item: Creating educational content
         link: 
+      
+      - item: Choir member
+        link:
+
+      - item: Volunteering (Rotary Club)
+        link:
 
       - item: Tango dancing
         link:
         
-      - item: Choir member
-        link:
-                
       - item: History enthusiast
         link:
-
 
 career-profile:
     title: Career Profile
