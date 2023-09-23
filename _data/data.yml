@@ -56,7 +56,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Back-end developer (currently working with Python and Django).
+      Back-end developer.
       
       Eleven years of Software QA experience, both automation and manual.
       
@@ -87,7 +87,7 @@ education:
         
 experiences:
     - role: Backend Software Engineer
-      time: 2021 - Present
+      time: 2021 - 2023
       company: <a href="https://www.intive.com" target="_blank">Intive</a>, remote
       details: |
           - Project&#58; &#8220;Shippo&#8221; (a <a href="https://www.goshippo.com/" target="_blank">Shippo</a> multi-carrier shipping platform for e-commerce).
