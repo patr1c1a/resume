@@ -91,7 +91,7 @@ experiences:
       company: <a href="https://www.intive.com" target="_blank">Intive</a>, remote
       details: |
           - Project&#58; &#8220;Shippo&#8221; (a <a href="https://www.goshippo.com/" target="_blank">Shippo</a> multi-carrier shipping platform for e-commerce).
-          - Tools used&#58; Python, Django, Docker, PostgreSQL, Postman, Git, Bitbucket, CircleCI, Linux.
+          - Tools used&#58; Python, Django, PostgreSQL, Docker, AWS, Postman, Git, Bitbucket, CircleCI, Linux.
           - Responsibilities&#58; Back-end developer. Implement courier APIs (both REST and SOAP) into the Shippo product. Bug-fixing. Unit and integration tests.
           - Agile methodology (scrum). Web application. Remote team.
     - role: Senior QA Analyst
