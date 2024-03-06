@@ -63,26 +63,26 @@ career-profile:
       Ten years of university teaching experience as an instructor on programming courses (2010-2019), and currently an educational content creator.
 
 education:
-    - degree: Degree in computer systems (&#8220;Licenciatura en Sistemas&#8221;)
+    - degree: &#8220;Licenciatura en Sistemas&#8221; (B. degree in Systems Engineering)
       university: UNNOBA (2022)
       time: 
       details: |
-        Program length: 5 years.
-    - degree: System analyst (&#8220;Analista de Sistemas&#8221;)
+        Duration: 5 years.
+    - degree: &#8220;Analista de Sistemas&#8221; (System Analyst degree)
       university: UNNOBA (2014)
       time:
       details: |
-        Program length: 3 years.
-    - degree: Computer programmer (&#8220;Programador Universitario&#8221;)
+        Duration: 3 years.
+    - degree: &#8220;Programador Universitario&#8221; (Computer Programmer degree)
       university: UNNOBA (2014)
       time: 
       details: |
-        Program length: 2 years.
-    - degree: Law degree and Notary Public degree (&#8220;Abogada&#8221; / &#8220;Escribana&#8221;)
+        Duration: 2 years.
+    - degree: &#8220;Abogada&#8221; / &#8220;Escribana&#8221; (B. degree in Law and B. degree in Notary Public)
       university: UNLP (2008)
       time: 
       details: |
-        Program length: 6 years.
+        Duration: 6 years.
         
         
 experiences:
