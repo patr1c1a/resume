@@ -88,12 +88,12 @@ education:
 experiences:
     - role: Ssr. Fullstack Software Developer
       time: 2024 - now
-      company: <a href="https://www.linkedin.com/company/tu-tut%C3%BA/about/" target="_blank">Tu Tutú</a>, remote
+      company: Appsolut.us, remote
       details: |
-          - Project&#58; <a href="https://www.middle-sea.com/" target="_blank">&#8220;Middle-Sea&#8221;</a> (insurance broker).
+          - Project&#58; insurance broker.
           - Tools used&#58; .Net, C#, NUnit, SQL Server, NHibernate, Javascript, JQuery, Bootstrap, Azure DevOps.
-          - Responsibilities&#58; Develop features and introduce required changes in the various platforms that Middle-Sea uses, both in their intranet and client-facing. Integrate third-party APIs from insurance companies.
-          - Agile methodology (scrum / kanban), trunk-based development. Web applications. Remote team.
+          - Responsibilities&#58; Develop features and introduce required changes in the various platforms the broker uses, both in their intranet and client-facing. Integrate third-party APIs from insurance companies.
+          - Agile methodology (scrum / kanban). Web applications. 100% Remote.
     - role: Backend Software Engineer
       time: 2021 - 2023
       company: <a href="https://www.intive.com" target="_blank">Intive</a>, remote
@@ -101,7 +101,7 @@ experiences:
           - Project&#58; &#8220;Shippo&#8221; (a <a href="https://www.goshippo.com/" target="_blank">Shippo</a> multi-carrier shipping platform for e-commerce).
           - Tools used&#58; Python, Django, PostgreSQL, Docker, AWS, Postman, Git, Bitbucket, CircleCI, Linux.
           - Responsibilities&#58; Back-end developer. Implement courier APIs (both REST and SOAP) into the Shippo product. Bug-fixing. Unit and integration tests.
-          - Agile methodology (scrum). Web application. Remote team.
+          - Agile methodology (scrum). Web application. 100% Remote.
     - role: Senior QA Analyst
       time: 2018 - 2021
       company: <a href="https://www.intive.com" target="_blank">Intive</a>, remote
@@ -109,7 +109,7 @@ experiences:
           - Project&#58; &#8220;Digital Workspace&#8221; (a <a href="https://www.sabre.com/" target="_blank">Sabre Corporation</a> GDS).
           - Tools used&#58; Jira,  TestCafe (Javascript automation framework), Git, Rally, HP ALM.
           - Responsibilities&#58; Create and automate test cases, refine user stories, advise on clarification of business logic details for implementation, execution of tests on web/desktop/mobile app, create and manage defect reports, coaching peers.
-          - Automated and manual testing. Agile methodology (scrum, kanban). Desktop/web/mobile environments. Remote team.
+          - Automated and manual testing. Agile methodology (scrum, kanban). Desktop/web/mobile environments. 100% Remote.
     - role: Quality Engineer
       time: 2011 - 2018
       company:  <a href="http://www.clarolab.com" target="_blank">Clarolab</a>, on-site and remote
@@ -117,7 +117,7 @@ experiences:
           - Projects&#58; &#8220;Jive&#8221; (a <a href="https://www.jivesoftware.com/" target="_blank">Jive Software</a> social networking platform for business applications), Sharepoint-based intranet (a <a href="https://threewill.com/" target="_blank">Threewill</a> project for AT&T USA), "Jama Contour" (a <a href="https://www.jamasoftware.com/" target="_blank">Jama Software</a> platform for development & engineering process).
           - Tools used&#58; Selenium webdriver, Robot Framework (on Java), Python, Git, Stash, Jenkins, Linux, Jira, TestRail, Web Accessibility Evaluation Tool, CodeSniffer, Firebug, JAWS and NVDA screenreaders.
           - Responsibilities&#58; Functional testing, technical customer support, test case creation and manual execution, accessibility testing, UX analysis, some test automation and maintenance, database interaction, test environment maintenance. Live-testing of the Image Gallery app during Jive World 2012.
-          - Agile methodology (scrum). Web application testing. On-site and remote teams.
+          - Agile methodology (scrum). Web application testing. Hybrid.
     - role: Freelance tester
       time: 2013 - 2015
       company: <a href="https://utest.com/" target="_blank">Utest</a>, remote crowdsourcing (tester ID 95308, username "patr1c1a")
@@ -126,15 +126,15 @@ experiences:
           - Projects include&#58; Netflix, YouTube, MalwareBytes, King.com, Yandex, Crackle, CBS Interactive, Time Warner Residential, Autodesk, Concur, 123D Design Online, Snapfish UK, 3-Wheel, WatchDox, Acquia, among others.
           - Tools used&#58; Logcat for Android, multiple OS (Win 7, Win 8.1, Ubuntu, Android), multiple desktop and mobile browsers (IE 6-9, Safari, Chrome, Firefox, Opera), Drupal, Bug Reporter (Android), SpeedTest.net (Android), screenshot/video tools.
           - Highest rating achieved&#58; &#8220;gold rated&#8221; Software QA in both functional and internationalization areas.
-          - Web, desktop and mobile testing.
+          - Web, desktop and mobile testing. 100% Remote.
     - role: Programming Teacher
       time: 2010 - 2019
       company: <a href="https://www.unnoba.edu.ar/" target="_blank">UNNOBA university</a>, Junín (Buenos Aires)
       details: |
           - Positions: Teaching Assistant, pro bono, from 2010 to 2014. <a href="https://digesto.unnoba.edu.ar/documento.frame.php?cod=1325" target=_blank>Teacher (lab instructor) from 2014 to 2019</a>.
-          - Responsibilities&#58; Teach classes. Deliver tailored teaching activities to students. Create teaching resources and exams. Grading exams and deliverables. Facilitate student learning and help them solve programming problems and logical reasoning exercises.
+          - Responsibilities&#58; Teach classes. Deliver tailored teaching activities to students. Create teaching resources and exams. Grading exams and deliverables. Facilitate student learning and help them solve programming problems and logical reasoning exercises. On site.
           - Courses&#58; &#8220;Introduction to Imperative Programming&#8221;, &#8220;Imperative Programming&#8221;, Freshmen introductory course.
-          - Languages taught&#58; Python, C++, Pascal, Ruby.
+          - Languages taught&#58; Python, C++, Pascal.
           - Grants awarded: research at Rey Juan Carlos University (Madrid, Spain, March 2017).
 
 public-talks:
