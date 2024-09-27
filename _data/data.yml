@@ -41,7 +41,7 @@ sidebar:
       - item: Creating educational content
         link: 
       
-      - item: Choir member
+      - item: Singing / choir member
         link:
 
       - item: Volunteering (Rotary Club)
@@ -92,7 +92,7 @@ experiences:
       details: |
           - Project&#58; insurance broker.
           - Tools used&#58; .Net, C#, NUnit, SQL Server, NHibernate, Javascript, JQuery, Bootstrap, Azure DevOps.
-          - Responsibilities&#58; Develop features and introduce required changes in the various platforms the broker uses, both in their intranet and client-facing. Integrate third-party APIs from insurance companies.
+          - Responsibilities&#58; Develop features and introduce required changes in the various platforms the broker uses, both in their intranet and client-facing. Integrate third-party APIs from insurance companies. Unit testing. Managing test environment deployment.
           - Agile methodology (scrum / kanban). Web applications. 100% Remote.
     - role: Backend Software Engineer
       time: 2021 - 2023
