@@ -58,7 +58,7 @@ career-profile:
     summary: |
       Software engineer (back-end focused).
       
-      Previous role as a software quality engineer, handling both automation and manual testing.
+      With a background in software quality assurance, handling both automation and manual testing.
       
       Ten years of university teaching experience as an instructor on programming courses, and currently an educational content creator.
 
@@ -85,7 +85,7 @@ education:
         Duration: 6 years.
         
         
-experiences:
+experience:
     - role: Ssr. Fullstack Software Developer
       time: 2024 - now
       company: <a href="https://www.linkedin.com/company/tu-tutu/" target="_blank">Tu tutu</a>, remote
@@ -198,6 +198,6 @@ online-presence:
       - translation: “This Python series is EXCELLENT!”
         link: "https://www.facebook.com/ProgramacionDesdeCer0/posts/pfbid0N1pSAPy6TprYdDpy5LnbkPMiyLAkdcP3NRgHeb7zEfRFHwJ8XXDf8Q88Jt2XWuAbl?comment_id=2124341690998238"
 
-      - translation: “Your video having been included as part of the educational materials in a preparatory course says a lot about it. I&#39;m subscribing. Great video.”
+      - translation: “The fact that your video is on a pre-admission programming course material list speaks volumes. I&#39;m subscribing. Great video.”
         link: "https://www.youtube.com/watch?v=0NBPd81uhJE&lc=UgyFbDBqdyRVSFMQci94AaABAg"
         
