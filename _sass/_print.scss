@@ -9,9 +9,7 @@
         font-family: Arial, sans-serif;
         color: black;
         line-height: 1.5;
-        display: grid;
-        grid-template-rows: repeat(9, auto); /* 9 rows for 9 sections */
-        gap: 10px; /* Space between sections */
+        position: relative; /* Required for absolute positioning */
     }
 
     /* Remove unnecessary visual elements for ATS */
@@ -21,7 +19,6 @@
 
     /* Ensure the name and position are at the top */
     .profile-container {
-        grid-row: 1; /* First row */
         text-align: center;
         margin-bottom: 20px;
     }
@@ -37,37 +34,22 @@
         margin: 0;
     }
 
-    /* Reorder sections using grid-row */
+    /* Force "Career Profile" and "Experiences" to appear right below the name */
     .summary-section {
-        grid-row: 2; /* Career Profile */
+        position: absolute;
+        top: 120px; /* Adjust this value based on your name and position height */
+        width: 100%;
     }
 
     .experiences-section {
-        grid-row: 3; /* Experiences */
+        position: absolute;
+        top: 220px; /* Adjust this value based on the height of "Career Profile" */
+        width: 100%;
     }
 
-    .education-container {
-        grid-row: 4; /* Education */
-    }
-
-    .publications-section:nth-of-type(1) {
-        grid-row: 5; /* Public Talks */
-    }
-
-    .publications-section:nth-of-type(2) {
-        grid-row: 6; /* Social Media and Online Presence */
-    }
-
-    .languages-container {
-        grid-row: 7; /* Languages */
-    }
-
-    .interests-container {
-        grid-row: 8; /* Interests */
-    }
-
-    .contact-container {
-        grid-row: 9; /* Contact Information */
+    /* Move the rest of the content below "Career Profile" and "Experiences" */
+    .main-wrapper {
+        margin-top: 400px; /* Adjust this value to leave space for "Career Profile" and "Experiences" */
     }
 
     /* Improve readability of sections */
