@@ -42,6 +42,24 @@
 
     .sidebar-wrapper {
         order: 2; /* Move sidebar content (Education, Languages, Interests, Contact Information) to the bottom */
+        display: flex;
+        flex-direction: column;
+    }
+
+    .education-container {
+        order: 1; /* Education */
+    }
+
+    .languages-container {
+        order: 2; /* Languages */
+    }
+
+    .interests-container {
+        order: 3; /* Interests */
+    }
+
+    .contact-container {
+        order: 4; /* Contact Information */
     }
 
     /* Ensure the print order is as requested */
@@ -59,22 +77,6 @@
 
     .publications-section:nth-of-type(2) {
         order: 4; /* Social Media and Online Presence */
-    }
-
-    .education-container {
-        order: 5; /* Education */
-    }
-
-    .languages-container {
-        order: 6; /* Languages */
-    }
-
-    .interests-container {
-        order: 7; /* Interests */
-    }
-
-    .contact-container {
-        order: 8; /* Contact Information */
     }
 
     /* Improve readability of sections */
