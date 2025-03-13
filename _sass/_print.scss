@@ -9,6 +9,9 @@
         font-family: Arial, sans-serif;
         color: black;
         line-height: 1.5;
+        display: grid;
+        grid-template-rows: auto auto auto; /* 3 rows for name, main, sidebar */
+        gap: 10px; /* Space between sections */
     }
 
     /* Remove unnecessary visual elements for ATS */
@@ -18,6 +21,7 @@
 
     /* Ensure the name and position are at the top */
     .profile-container {
+        grid-row: 1; /* First row */
         text-align: center;
         margin-bottom: 20px;
     }
@@ -33,28 +37,13 @@
         margin: 0;
     }
 
-    /* Move the name and position outside of .sidebar-wrapper */
-    .sidebar-wrapper {
-        display: none; /* Hide the original name and position in .sidebar-wrapper */
-    }
-
-    .profile-container {
-        display: block !important; /* Ensure the name and position are visible */
-    }
-
     /* Reorder .main-wrapper and .sidebar-wrapper */
-    .wrapper {
-        display: flex;
-        flex-direction: column;
-    }
-
     .main-wrapper {
-        order: 2; /* Move main content (Career Profile, Experiences, etc.) below the name and position */
+        grid-row: 2; /* Second row */
     }
 
     .sidebar-wrapper {
-        order: 3; /* Move sidebar content (Education, Languages, etc.) to the bottom */
-        display: block; /* Restore the sidebar content */
+        grid-row: 3; /* Third row */
     }
 
     /* Reorder sections within .sidebar-wrapper */
