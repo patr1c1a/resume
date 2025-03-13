@@ -3,7 +3,11 @@
         size: A4;
         margin: 20mm;
     }
-
+    .wrapper {
+        display: flex;
+        flex-direction: column-reverse;
+    }
+    
     body {
         font-size: 12pt;
         font-family: Arial, sans-serif;
