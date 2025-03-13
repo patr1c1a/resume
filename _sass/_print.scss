@@ -3,18 +3,12 @@
         size: A4;
         margin: 20mm;
     }
-    .wrapper {
-        display: flex;
-        flex-direction: column-reverse;
-    }
-    
+
     body {
         font-size: 12pt;
         font-family: Arial, sans-serif;
         color: black;
         line-height: 1.5;
-        display: flex;
-        flex-direction: column-reverse;
     }
 
     /* Remove unnecessary visual elements for ATS */
@@ -39,13 +33,22 @@
         margin: 0;
     }
 
-    /* Reorder sections by moving them in the DOM */
+    /* Reorder .main-wrapper and .sidebar-wrapper */
+    .wrapper {
+        display: flex;
+        flex-direction: column;
+    }
+
     .main-wrapper {
         order: 1; /* Move main content (Career Profile, Experiences, etc.) to the top */
     }
 
     .sidebar-wrapper {
-        order: 2; /* Move sidebar content (Education, Languages, Interests, Contact Information) to the bottom */
+        order: 2; /* Move sidebar content (Education, Languages, etc.) to the bottom */
+    }
+
+    /* Reorder sections within .sidebar-wrapper */
+    .sidebar-wrapper {
         display: flex;
         flex-direction: column;
     }
@@ -66,7 +69,7 @@
         order: 4; /* Contact Information */
     }
 
-    /* Ensure the print order is as requested */
+    /* Ensure "Career Profile" and "Experiences" are at the top of .main-wrapper */
     .summary-section {
         order: 1; /* Career Profile */
     }
