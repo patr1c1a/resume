@@ -9,7 +9,8 @@
         font-family: Arial, sans-serif;
         color: black;
         line-height: 1.5;
-        position: relative; /* Required for absolute positioning */
+        display: flex;
+        flex-direction: column;
     }
 
     /* Remove unnecessary visual elements for ATS */
@@ -34,22 +35,47 @@
         margin: 0;
     }
 
-    /* Force "Career Profile" and "Experiences" to appear right below the name */
+    /* Reorder sections by moving them in the DOM */
+    .main-wrapper {
+        order: 1; /* Move main content (Career Profile, Experiences, etc.) to the top */
+    }
+
+    .sidebar-wrapper {
+        order: 2; /* Move sidebar content (Education, Languages, etc.) to the bottom */
+    }
+
+    /* Ensure "Career Profile" and "Experiences" are at the top */
     .summary-section {
-        position: absolute;
-        top: 120px; /* Adjust this value based on your name and position height */
-        width: 100%;
+        order: 1; /* Career Profile */
     }
 
     .experiences-section {
-        position: absolute;
-        top: 220px; /* Adjust this value based on the height of "Career Profile" */
-        width: 100%;
+        order: 2; /* Experiences */
     }
 
-    /* Move the rest of the content below "Career Profile" and "Experiences" */
-    .main-wrapper {
-        margin-top: 400px; /* Adjust this value to leave space for "Career Profile" and "Experiences" */
+    /* Move the rest of the content below */
+    .education-container {
+        order: 3; /* Education */
+    }
+
+    .publications-section:nth-of-type(1) {
+        order: 4; /* Public Talks */
+    }
+
+    .publications-section:nth-of-type(2) {
+        order: 5; /* Social Media and Online Presence */
+    }
+
+    .languages-container {
+        order: 6; /* Languages */
+    }
+
+    .interests-container {
+        order: 7; /* Interests */
+    }
+
+    .contact-container {
+        order: 8; /* Contact Information */
     }
 
     /* Improve readability of sections */
