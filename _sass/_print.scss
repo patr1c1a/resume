@@ -33,6 +33,15 @@
         margin: 0;
     }
 
+    /* Move the name and position outside of .sidebar-wrapper */
+    .sidebar-wrapper {
+        display: none; /* Hide the original name and position in .sidebar-wrapper */
+    }
+
+    .profile-container {
+        display: block !important; /* Ensure the name and position are visible */
+    }
+
     /* Reorder .main-wrapper and .sidebar-wrapper */
     .wrapper {
         display: flex;
@@ -40,11 +49,12 @@
     }
 
     .main-wrapper {
-        order: 1; /* Move main content (Career Profile, Experiences, etc.) to the top */
+        order: 2; /* Move main content (Career Profile, Experiences, etc.) below the name and position */
     }
 
     .sidebar-wrapper {
-        order: 2; /* Move sidebar content (Education, Languages, etc.) to the bottom */
+        order: 3; /* Move sidebar content (Education, Languages, etc.) to the bottom */
+        display: block; /* Restore the sidebar content */
     }
 
     /* Reorder sections within .sidebar-wrapper */
