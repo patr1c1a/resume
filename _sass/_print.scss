@@ -10,7 +10,7 @@
         color: black;
         line-height: 1.5;
         display: grid;
-        grid-template-rows: auto auto auto auto auto auto auto auto auto; /* 9 rows for 9 sections */
+        grid-template-rows: repeat(9, auto); /* 9 rows for 9 sections */
         gap: 10px; /* Space between sections */
     }
 
