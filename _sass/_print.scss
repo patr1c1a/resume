@@ -44,7 +44,7 @@
         order: 2; /* Move sidebar content (Education, Languages, etc.) to the bottom */
     }
 
-    /* Ensure "Career Profile" and "Experiences" are at the top */
+    /* Ensure the print order is as requested */
     .summary-section {
         order: 1; /* Career Profile */
     }
@@ -53,7 +53,6 @@
         order: 2; /* Experiences */
     }
 
-    /* Move the rest of the content below */
     .education-container {
         order: 3; /* Education */
     }
