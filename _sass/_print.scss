@@ -1,57 +1,51 @@
-@media print
-   {
+@media print {
     @page {
         size: A4;
+        margin: 20mm;
     }
+
     body {
-       font-size: 12pt;
+        font-size: 12pt;
+        font-family: Arial, sans-serif;
+        color: black;
+        line-height: 1.5;
     }
 
-    img.avatar {
-        filter: grayscale(1);
-        -webkit-filter: greyscale(1);
+    img.avatar, .remove-container.container-block, footer, .fa-inverse, .fa-inverse:after, .fa-inverse:before {
+        display: none;
     }
-   .main-wrapper .time {
-       float: right;
-        color: black !important;
-        -webkit-print-color-adjust: exact; 
-   }
+
     .sidebar-wrapper {
-        position: static;
-        float: right;
-        width: 40%;
-        outline: solid 2px grey;
-        outline-offset: -2px;
-        margin-left: 10px;
+        float: none;
+        width: 100%;
+        outline: none;
+        margin: 0;
         word-wrap: break-word;
-        -webkit-print-color-adjust: exact; 
-    }
-      
-    li.pdf {
-       display: none;
-    }
-      
-    img.avatar {
-       display: none;
-    }
-      
-    .remove-container.container-block {
-       display: none;
     }
 
-    footer {
-       display: none;
+    h1, h2, h3, h4, h5, h6 {
+        font-weight: bold;
+        margin-top: 20px;
+        color: black;
     }
 
-    .skillset .level-bar-inner {
-       background-color: black !important;
-       -webkit-print-color-adjust: exact; 
+    .main-wrapper .time {
+        float: none;
+        display: inline-block;
+        margin-left: 10px;
+        color: black !important;
     }
 
-   .fa-inverse,
-   .fa-inverse:after,
-   .fa-inverse:before {
-     color: #ffffff !important;
-   }
+   .skillset .level-bar-inner {
+        display: none;
+    }
 
+    ul, ol {
+        margin: 10px 0;
+        padding-left: 20px;
+    }
+
+    li {
+        margin-bottom: 5px;
+    }
 }
