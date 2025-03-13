@@ -40,6 +40,10 @@
         order: 1; /* Move main content (Career Profile, Experiences, etc.) to the top */
     }
 
+    .sidebar-wrapper {
+        order: 2; /* Move sidebar content (Education, Languages, Interests, Contact Information) to the bottom */
+    }
+
     /* Ensure the print order is as requested */
     .summary-section {
         order: 1; /* Career Profile */
@@ -72,12 +76,6 @@
     .contact-container {
         order: 8; /* Contact Information */
     }
-
-    .sidebar-wrapper {
-        order: 9; /* Move sidebar content (Education, Languages, Interests, Contact Information) to the bottom */
-    }
-
-
 
     /* Improve readability of sections */
     h1, h2, h3, h4, h5, h6 {
