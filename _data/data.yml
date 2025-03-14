@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Patricia E. Miguel
     tagline: Software Engineer
-    avatar:   # place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: circle-profile-1.png  # place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: email@patriciaemiguel.com
@@ -28,7 +28,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: https://www.sejda.com/html-to-pdf?save-link=http%3A%2F%2Fwww.patriciaemiguel.com%2Fresume&pageSize=A4
+    pdf: https://patriciaemiguel.com/resume/assets/resume_patriciaemiguel.pdf
 
     languages:
       - idiom: English
@@ -44,13 +44,13 @@ sidebar:
       - item: Singing / choir member
         link:
 
-      - item: Volunteering (Rotary Club)
-        link:
-
       - item: Tango dancing
         link:
         
       - item: History enthusiast
+        link:
+
+      - item: Ex-Rotaract and Rotary Club member
         link:
 
 career-profile:
