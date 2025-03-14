@@ -100,7 +100,7 @@ experiences:
       details: |
           - Project&#58; &#8220;Shippo&#8221; (a <a href="https://www.goshippo.com/" target="_blank">Shippo</a> multi-carrier shipping platform for e-commerce).
           - Tools used&#58; Python, Django, PostgreSQL, Docker, AWS, Postman, Git, Bitbucket, CircleCI, Linux.
-          - Responsibilities&#58; Back-end developer. Implement courier APIs (both REST and SOAP) into the Shippo product. Bug-fixing. Unit and integration tests.
+          - Responsibilities&#58; Back-end developer. Integrate courier APIs (both REST and SOAP) into the Shippo product. Bug-fixing. Unit and integration tests.
           - Agile methodology (scrum). Web application. 100% Remote.
     - role: Senior QA Analyst
       time: 2018 - 2021
