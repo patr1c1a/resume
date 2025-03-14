@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Patricia E. Miguel
     tagline: Software Engineer
-    avatar: circle-profile-1.png  # place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: circle_profile_1.png  # place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: email@patriciaemiguel.com
@@ -56,7 +56,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-       <strong>Software Engineer (back-end focused)</strong> with a diverse background in quality assurance (automation and manual testing), university-level teaching, and educational content creation. Skilled in Python and C#, with a passion for teaching, public speaking, and creating engaging technical content. Strong communication skills (fluent in English and Spanish), leadership experience (from community projects), and a proven ability to explain complex technical concepts to diverse audiences. A combination of technical expertise with a creative, collaborative approach to software development and education.
+       <strong>Software Engineer (back-end focused)</strong> with a diverse background in <strong>quality assurance</strong> (automation and manual testing), <strong>university-level teaching</strong>, and <strong>educational content creation</strong>. Skilled in <strong>Python</strong> and <strong>C#</strong>, with a passion for <strong>teaching</strong>, <strong>public speaking</strong>, and <strong>creating engaging technical content</strong>. Strong <strong>communication skills</strong> (fluent in English and Spanish), <strong>leadership experience</strong> (from community projects), and a proven ability to <strong>explain complex technical concepts</strong> to diverse audiences. A combination of technical expertise with a creative, collaborative approach to software development and education.
 
 education:
     - degree: <a href="https://digesto.unnoba.edu.ar/documento.view.php?cod=5075" target=_blank>Bachelor of Information Systems (&#8220Licenciatura en Sistemas&#8221;)</a>
