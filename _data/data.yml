@@ -50,7 +50,7 @@ sidebar:
       - item: History enthusiast
         link:
 
-      - item: Former Rotary Club (Rotaract, Interact) member
+      - item: Former Rotary Club (Interact, Rotaract) member
         link:
 
 career-profile:
@@ -153,7 +153,7 @@ public-talks:
 online-presence:
     title: Social media and online presence
     intro: |
-      My Youtube channel, blog and social media where I post educational content for programming beginners. Contents are only in Spanish so far.
+      My channel, blog and social media where I post educational content for programming beginners. Contents are only in Spanish so far.
     items:
       - title: Blog
         link: "https://www.patriciaemiguel.com/"
@@ -171,8 +171,8 @@ online-presence:
         link: "https://www.facebook.com/ProgramacionDesdeCer0/"
         details: Infographics and &#8220;reels&#8221; about programming and related topics.
         
-      - title: Twitter
-        link: "https://twitter.com/Programacion_0"
+      - title: X (Twitter)
+        link: "https://www.x.com/Programacion_0"
         details: Posts and infographics about programming and related topics.
 
     subtitle: Positive feedback
