@@ -50,13 +50,13 @@ sidebar:
       - item: History enthusiast
         link:
 
-      - item: Ex-Rotaract and Rotary Club member
+      - item: Former Rotary Club (Rotaract, Interact) member
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-       Software Engineer (back-end focused) with a diverse background in quality assurance (automation and manual testing), university-level teaching, and educational content creation. Skilled in Python and C#, with a passion for teaching, public speaking, and creating engaging technical content. Strong communication skills (fluent in English and Spanish), leadership experience (from community projects), and a proven ability to explain complex technical concepts to diverse audiences. A combination of technical expertise with a creative, collaborative approach to software development and education.
+       <strong>Software Engineer (back-end focused)</strong> with a diverse background in quality assurance (automation and manual testing), university-level teaching, and educational content creation. Skilled in Python and C#, with a passion for teaching, public speaking, and creating engaging technical content. Strong communication skills (fluent in English and Spanish), leadership experience (from community projects), and a proven ability to explain complex technical concepts to diverse audiences. A combination of technical expertise with a creative, collaborative approach to software development and education.
 
 education:
     - degree: <a href="https://digesto.unnoba.edu.ar/documento.view.php?cod=5075" target=_blank>Bachelor of Information Systems (&#8220Licenciatura en Sistemas&#8221;)</a>
